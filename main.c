@@ -1,5 +1,4 @@
 #define _CRT_SECURE_NO_WARNINGS
-//打印1-100之间所有3的倍数
 #include<stdio.h>
 int main()
 {
